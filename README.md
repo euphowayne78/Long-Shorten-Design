@@ -7,7 +7,7 @@ The following block takes in DNA/RNA sequence in fasta format. Multiple sequence
 2) Edit parameters/filenames to readin and output.  
 3) You can define your own prefix (left adapter sequence) and suffix (left adapter sequence), otherwise, the defaults will be used.   
 
-**Format of input fasta file**
+**Format of input fasta file**<br>    
 \>Name_of_input_sequence [5' UTR length, ORF length, 3'UTR length]  
 Input_Sequence
 
